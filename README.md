@@ -13,4 +13,5 @@ Fig. 1. Developing a real-time computing program for diagnosing nasal disease an
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/78481822/224526171-c3b5326d-a770-4edb-b6f4-8f3b22d9f9a9.png">
 
 Fig. 2. Schematic of the detection system:
+
 <img width="413" alt="image" src="https://user-images.githubusercontent.com/78481822/224526186-585309ab-a718-4cb4-91ad-0b8be0ea6db0.png">
